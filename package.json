@@ -1,0 +1,11 @@
+{
+  "name": "meteor-1.3-bom-bug",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "c3": "0.4.11-rc4",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
